@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+/* Nav Bar */
+
+.navbar {
+    background-color: aqua;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: right;
+}
+
+.navbar ul li {
+    list-style: none;
+    padding: 10 25;
+}
+
+.navbar ul li a {
+    display: block;
+    padding: 1em;
+    color: white;
+}
+
+.navbar ul li a:hover{
+    background-color: lightseagreen;
+}
