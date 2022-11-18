@@ -1,7 +1,7 @@
 # WSHS Key Club Website 
 
 *under development!!!* \
-∨∨∨ Live Site ∨∨∨
+∨∨∨ Live Site ∨∨∨ \
 [website](https://chwrd.github.io/WSHS-Key-Club/)
 
 
