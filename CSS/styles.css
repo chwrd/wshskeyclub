@@ -60,4 +60,31 @@ main{
 
 main h1{
     text-align: center;
+<<<<<<< Updated upstream
 }
+=======
+}
+
+main p{
+    margin: 10px 10%;
+}
+
+/* Footer */
+
+footer {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+}
+
+.fa-brands{
+    font-size: 2em;
+}
+
+.fa-instagram {
+    color: purple;
+}
+
+.fa-discord {
+    color: rgba(6, 147, 227, 1);
+}
+>>>>>>> Stashed changes
