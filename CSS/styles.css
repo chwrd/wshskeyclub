@@ -62,6 +62,12 @@ main h1 {
     text-align: center;
 }
 
+
+main p{
+    margin: 10px 10%;
+}
+
+
 /* Footer */
 
 footer {
@@ -80,3 +86,4 @@ footer {
 .fa-discord {
     color: rgba(6, 147, 227, 1);
 }
+
