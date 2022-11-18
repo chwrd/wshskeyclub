@@ -69,6 +69,10 @@ footer {
     grid-template-columns: auto 1fr auto;
 }
 
+.fa-brands{
+    font-size: 2em;
+}
+
 .fa-instagram {
     color: purple;
 }
