@@ -19,7 +19,6 @@ body {
 .navbar {
     display: flex;
     align-items: center;
-    justify-content: fr 5fr fr;
     background-color: var(--wp--preset--color--vivid-cyan-blue);
     /* #0693e3; */
     /* #00aeef; */
@@ -43,4 +42,8 @@ body {
 
 .navbar ul li a:hover {
     background-color: #009cd6;
+}
+
+.navbar img {
+    margin: 15px 20px;
 }
