@@ -9,7 +9,7 @@
 
 
 Key Club website contest submit link \
-https://docs.google.com/forms/d/e/1FAIpQLSf488YWBOwewt28qx7Y11OpwscrwJa6QZz6GMBYkKArpmgmxA/viewform \
+https://docs.google.com/forms/d/e/1FAIpQLSf488YWBOwewt28qx7Y11OpwscrwJa6QZz6GMBYkKArpmgmxA/viewform
 
 Criteria \
 Each website entry will be judged based upon the following criteria (75 points total). \
