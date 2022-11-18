@@ -63,7 +63,7 @@ main h1 {
 }
 
 
-main p{
+main p {
     margin: 10px 10%;
 }
 
@@ -75,8 +75,25 @@ footer {
     grid-template-columns: auto 1fr auto;
 }
 
-.fa-brands{
+footer #social ul {
+    display: flex;
+    justify-content: right;
     font-size: 2em;
+}
+
+
+footer #social ul li {
+    list-style: none;
+}
+
+
+footer #social ul li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
 }
 
 .fa-instagram {
@@ -86,4 +103,3 @@ footer {
 .fa-discord {
     color: rgba(6, 147, 227, 1);
 }
-
