@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+    --wp--preset--color--vivid-cyan-blue: #0693e3;
+}
 
 html,
 body {
@@ -13,12 +17,17 @@ body {
 /* Nav Bar */
 
 .navbar {
-    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: fr 5fr fr;
+    background-color: var(--wp--preset--color--vivid-cyan-blue);
+    /* #0693e3; */
+    /* #00aeef; */
 }
 
 .navbar ul {
-    display: flex;
-    justify-content: right;
+     display: flex; 
+
 }
 
 .navbar ul li {
@@ -32,6 +41,6 @@ body {
     color: white;
 }
 
-.navbar ul li a:hover{
-    background-color: lightseagreen;
+.navbar ul li a:hover {
+    background-color: #009cd6;
 }
