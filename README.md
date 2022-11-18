@@ -1,4 +1,4 @@
-#WSHS Key Club Website\
+#WSHS Key Club Website
 
 *under development!!!*
 ∨∨∨ Live Site ∨∨∨
