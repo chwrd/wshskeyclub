@@ -3,7 +3,7 @@
 <pre>
 *under development!!!*
  ∨∨∨ Live Site ∨∨∨ 
-   [beta website](https://chwrd.github.io/WSHS-Key-Club/)
+   <a href="https://chwrd.github.io/WSHS-Key-Club/"></a>
 </pre>
 
 
