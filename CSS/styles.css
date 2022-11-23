@@ -1,10 +1,15 @@
+
 * {
     margin: 0;
     padding: 0;
 }
 
 body {
-    --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+    /* Fonts
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif; */
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto&display=swap');
+      --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
     --wp--preset--color--vivid-cyan-blue: #0693e3;
 }
 
@@ -63,7 +68,7 @@ main h1 {
 }
 
 
-main p{
+main p {
     margin: 10px 10%;
 }
 
@@ -72,18 +77,35 @@ main p{
 
 footer {
     display: grid;
+    place-items: center;
     grid-template-columns: auto 1fr auto;
 }
 
-.fa-brands{
+footer #social ul {
+    display: flex;
+    justify-content: right;
     font-size: 2em;
 }
 
+
+footer #social ul li {
+    list-style: none;
+}
+
+
+footer #social ul li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+}
+
 .fa-instagram {
-    color: purple;
+    color: #E1306C;
 }
 
 .fa-discord {
     color: rgba(6, 147, 227, 1);
 }
-
