@@ -8,7 +8,9 @@
 ---
 
 Links to include:
-[](https://www.keyclub.org/)
+-https://www.keyclub.org/
+-https://pnwkeyclub.org/
+-https://westseattlehs.seattleschools.org/
 
 Key Club website contest submit link \
 https://docs.google.com/forms/d/e/1FAIpQLSf488YWBOwewt28qx7Y11OpwscrwJa6QZz6GMBYkKArpmgmxA/viewform
