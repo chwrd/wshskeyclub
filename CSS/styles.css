@@ -94,7 +94,6 @@
 
   footer #social ul {
       display: flex;
-      justify-content: right;
       font-size: 2em;
   }
 
@@ -108,11 +107,11 @@
   }
 
   .fa-discord {
-    margin-left: .5em;
+      margin-left: .5em;
       color: white;
       /* rgba(6, 147, 227, 1); */
   }
 
-  .fa-envelope{
-    color: white;
+  .fa-envelope {
+      color: white;
   }
