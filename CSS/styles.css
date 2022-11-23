@@ -94,6 +94,16 @@
   footer nav,
   #social {
       margin: 1.5em;
+      margin-left: 4em;
+      margin-right: 4em;
+  }
+
+  footer li {
+      list-style: none;
+  }
+
+  footer nav ul li {
+      margin-top: .25em;
   }
 
   footer #social ul {
@@ -101,21 +111,20 @@
       font-size: 2em;
   }
 
-  footer li {
-      list-style: none;
-  }
-
-  .fa-instagram {
-      color: #E1306C;
+  .icon {
       margin-left: .5em;
-  }
-
-  .fa-discord {
-      margin-left: .5em;
-      color: white;
-      /* rgba(6, 147, 227, 1); */
+      font-size: 1.2em;
   }
 
   .fa-envelope {
       color: white;
+  }
+
+  .fa-instagram {
+      color: #E1306C;
+  }
+
+  .fa-discord {
+      color: white;
+      /* rgba(6, 147, 227, 1); */
   }
