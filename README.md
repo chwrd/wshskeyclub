@@ -2,7 +2,7 @@
 
 *under development!!!* \
 ∨∨∨ Live Site ∨∨∨ \
-[website](https://chwrd.github.io/WSHS-Key-Club/)
+[beta website](https://chwrd.github.io/WSHS-Key-Club/)
 
 
 ---
