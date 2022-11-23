@@ -72,6 +72,7 @@ main p {
 
 footer {
     display: grid;
+    place-items: center;
     grid-template-columns: auto 1fr auto;
 }
 
@@ -97,7 +98,7 @@ footer #social ul li a {
 }
 
 .fa-instagram {
-    color: purple;
+    color: #E1306C;
 }
 
 .fa-discord {
