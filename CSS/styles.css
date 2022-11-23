@@ -100,29 +100,39 @@
 
   footer nav,
   #social {
-      margin: 1.5em;
-  }
-
-  footer #social ul {
-      display: flex;
-      font-size: 2em;
+      margin: 2em;
+      margin-left: 10em;
+      margin-right: 10em;
   }
 
   footer li {
       list-style: none;
   }
 
-  .fa-instagram {
-      color: #E1306C;
-      margin-left: .5em;
+  footer nav ul li {
+      margin-top: .2em;
+      font-size: 16px;
   }
 
-  .fa-discord {
+  footer #social ul {
+      display: flex;
+      font-size: 1.5em;
+  }
+
+  .icon {
       margin-left: .5em;
-      color: white;
-      /* rgba(6, 147, 227, 1); */
+      font-size: 1.2em;
   }
 
   .fa-envelope {
       color: white;
+  }
+
+  .fa-instagram {
+      color: #E1306C;
+  }
+
+  .fa-discord {
+      color: white;
+      /* rgba(6, 147, 227, 1); */
   }
