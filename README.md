@@ -1,8 +1,8 @@
 # WSHS Key Club Website 
 
 *under development!!!* \
-∨∨∨ Live Site ∨∨∨ \
-[beta website](https://chwrd.github.io/WSHS-Key-Club/)
+  ∨∨∨ Live Site ∨∨∨ \
+     [beta website](https://chwrd.github.io/WSHS-Key-Club/)
 
 
 ---
@@ -17,7 +17,7 @@
 https://docs.google.com/forms/d/e/1FAIpQLSf488YWBOwewt28qx7Y11OpwscrwJa6QZz6GMBYkKArpmgmxA/viewform
 
 
-#### Criteria
+### Criteria
 Each website entry will be judged based upon the following criteria (75 points total).
 
 - Contains links to https://pnwkeyclub.org/ and https://keyclub.org/ (5 points)
