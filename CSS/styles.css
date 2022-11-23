@@ -121,7 +121,7 @@
 
   .icon {
       margin-left: .5em;
-      font-size: 1.2em;
+      font-size: 1em;
   }
 
   .fa-envelope {
@@ -129,7 +129,8 @@
   }
 
   .fa-instagram {
-      color: #E1306C;
+      color: white
+      /* #E1306C; */
   }
 
   .fa-discord {
