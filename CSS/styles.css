@@ -83,6 +83,13 @@
       display: grid;
       place-items: center;
       grid-template-columns: auto 1fr auto;
+      color: white;
+      background-color: var(--wp--preset--color--vivid-cyan-blue);
+  }
+
+  footer nav,
+  #social {
+      margin: 1.5em;
   }
 
   footer #social ul {
@@ -91,25 +98,21 @@
       font-size: 2em;
   }
 
-
-  footer #social ul li {
+  footer li {
       list-style: none;
-  }
-
-
-  footer #social ul li a {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 30px;
-      height: 30px;
-      border-radius: 30px;
   }
 
   .fa-instagram {
       color: #E1306C;
+      margin-left: .5em;
   }
 
   .fa-discord {
-      color: rgba(6, 147, 227, 1);
+    margin-left: .5em;
+      color: white;
+      /* rgba(6, 147, 227, 1); */
+  }
+
+  .fa-envelope{
+    color: white;
   }
