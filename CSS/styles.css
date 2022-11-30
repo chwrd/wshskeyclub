@@ -81,11 +81,11 @@
       margin: 10px 10%;
   }
 
-  main img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
+  main img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 70%;
   }
 
 
@@ -93,7 +93,7 @@
 
   footer {
       display: grid;
-      place-items: center;
+      place-items: end;
       grid-template-columns: auto 1fr auto;
       color: white;
       background-color: var(--wp--preset--color--vivid-cyan-blue);
@@ -101,7 +101,8 @@
 
   footer nav,
   #social {
-      margin: 2em;
+      margin-top: 3em;
+      margin-bottom: 2em;
       margin-left: 10em;
       margin-right: 10em;
   }
@@ -111,8 +112,12 @@
   }
 
   footer nav ul li {
-      margin-top: .2em;
+      margin-top: .1em;
       font-size: 16px;
+  }
+
+  footer nav ul li a {
+      color: white;
   }
 
   footer #social ul {
@@ -122,7 +127,7 @@
 
   .icon {
       margin-left: .5em;
-      font-size: 1.2em;
+      font-size: 1em;
   }
 
   .fa-envelope {
@@ -130,7 +135,8 @@
   }
 
   .fa-instagram {
-      color: #E1306C;
+      color: white
+          /* #E1306C; */
   }
 
   .fa-discord {
