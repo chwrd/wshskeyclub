@@ -68,6 +68,12 @@
       max-width: 900%;
       background-color: blueviolet;
       margin: 0px;
+      padding: 10% 0%;
+  }
+
+  #hero {
+      height: 300px;
+      object-fit: cover;
   }
 
   main h1 {
