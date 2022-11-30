@@ -31,7 +31,9 @@
 
   .navbar {
       display: flex;
-      align-items: center;
+      flex-flow: wrap;
+      align-content: space-between;
+      justify-content:center;
       background-color: var(--wp--preset--color--vivid-cyan-blue);
       /* #0693e3; */
       /* #00aeef; */
@@ -39,7 +41,6 @@
 
   .navbar ul {
       display: flex;
-
   }
 
   .navbar ul li {
