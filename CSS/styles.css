@@ -31,34 +31,31 @@
 
   .navbar {
       display: flex;
-      align-content: center;
+align-items: center;
       justify-content: space-between;
       background-color: var(--wp--preset--color--vivid-cyan-blue);
       /* #0693e3; */
       /* #00aeef; */
   }
 
-  .navbar ul {
+  .navbar ul, img {
       display: flex;
+      margin:  auto 1.5vw;
   }
 
   .navbar ul li {
       list-style: none;
-      padding: 10 25;
+      padding: 10px 0px;
   }
 
   .navbar ul li a {
-      display: block;
+      display: flex;
       padding: 1em;
       color: white;
   }
 
   .navbar ul li a:hover {
       background-color: #009cd6;
-  }
-
-  .navbar img {
-      margin: 15px 20px;
   }
 
   /* Main body */
