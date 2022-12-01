@@ -98,25 +98,29 @@
       background-color: var(--wp--preset--color--vivid-cyan-blue);
   }
 
-  footer nav,
+  footer nav, 
   #social {
-      margin-top: 3em;
-      margin-bottom: 2em;
-      margin-left: 10em;
-      margin-right: 10em;
+    margin-bottom: 7%;
+    margin-top: 10%;
+  }
+
+  footer nav{
+      margin-left: 15vw;
+      width: 120px;
+  }
+
+  footer #social{
+      margin-right: 15vw;
   }
 
   footer li {
       list-style: none;
   }
 
-  footer nav ul li {
-      margin-top: .1em;
-      font-size: 16px;
-  }
-
   footer nav ul li a {
       color: white;
+      margin-top: .1em;
+      font-size: 16px;
   }
 
   footer #social ul {
