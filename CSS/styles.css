@@ -31,34 +31,31 @@
 
   .navbar {
       display: flex;
-      align-items: center;
+align-items: center;
+      justify-content: space-between;
       background-color: var(--wp--preset--color--vivid-cyan-blue);
       /* #0693e3; */
       /* #00aeef; */
   }
 
-  .navbar ul {
+  .navbar ul, img {
       display: flex;
-
+      margin:  auto 1.5vw;
   }
 
   .navbar ul li {
       list-style: none;
-      padding: 10 25;
+      padding: 10px 0px;
   }
 
   .navbar ul li a {
-      display: block;
+      display: flex;
       padding: 1em;
       color: white;
   }
 
   .navbar ul li a:hover {
       background-color: #009cd6;
-  }
-
-  .navbar img {
-      margin: 15px 20px;
   }
 
   /* Main body */
@@ -107,25 +104,29 @@
       background-color: var(--wp--preset--color--vivid-cyan-blue);
   }
 
-  footer nav,
+  footer nav, 
   #social {
-      margin-top: 3em;
-      margin-bottom: 2em;
-      margin-left: 10em;
-      margin-right: 10em;
+    margin-bottom: 7%;
+    margin-top: 10%;
+  }
+
+  footer nav{
+      margin-left: 15vw;
+      width: 120px;
+  }
+
+  footer #social{
+      margin-right: 15vw;
   }
 
   footer li {
       list-style: none;
   }
 
-  footer nav ul li {
-      margin-top: .1em;
-      font-size: 16px;
-  }
-
   footer nav ul li a {
       color: white;
+      margin-top: .1em;
+      font-size: 16px;
   }
 
   footer #social ul {
