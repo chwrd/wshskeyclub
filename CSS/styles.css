@@ -69,9 +69,10 @@
 
   /* Main body */
   main {
-      max-width: 100%;
+    width: 100%;
+      max-width: 1080px;
       background-color: white;
-      margin: 0px;
+      margin: auto;
       padding: auto 7%;
   }
 
