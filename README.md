@@ -7,11 +7,6 @@
 
 ---
 
-### Links to include:
-- https://www.keyclub.org/
-- https://pnwkeyclub.org/
-- https://westseattlehs.seattleschools.org/
-
 
 ### Key Club website contest submit link
 https://docs.google.com/forms/d/e/1FAIpQLSf488YWBOwewt28qx7Y11OpwscrwJa6QZz6GMBYkKArpmgmxA/viewform
@@ -31,3 +26,11 @@ Each website entry will be judged based upon the following criteria (75 points t
 - Contains information about the District Project (5 points)
 - Contains information on Key Club International Service Partner organizations (5 points)
 - Visual appeal (10 points)
+
+
+### Links to include:
+- https://www.keyclub.org/
+- https://pnwkeyclub.org/
+- https://westseattlehs.seattleschools.org/
+- https://www.instagram.com/keyclub.wshs/
+- https://discord.gg/JbNZw3PDkV
