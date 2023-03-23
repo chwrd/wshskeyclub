@@ -1,5 +1,34 @@
+
+
 .carousel-item img{
     max-height: 70vh;
     object-fit: cover;
+}
+
+/* Hero */
+.navbar {
+    background-color: #ffffff90 !important;
+    /* mix-blend-mode: exclusion; */
+  }
+
+#hero{
+    position: relative;
+    height: 100vh;
+}
+
+#hero-text{
+    position: relative;
+    top: 53%;
+    text-align: center;
+    color: white;
+    
+}
+
+#hero-carousel{
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+    opacity: .77;
+    width: 100%;
 }
 
