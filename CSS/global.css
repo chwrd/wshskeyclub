@@ -1,11 +1,23 @@
+:root{
+--bg-color:  #D7EEFF;
+--bg-color-dark:  ;
+--font-color: ;
+--font-color-dark: #23487A;
+
+}
+
+/* .navbar-nav a{
+    color: var(--font-color-dark) !important;
+} */
+
+img {
+    width: 100%;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-img {
-    width: 100%;
 }
 
 html, body { 
