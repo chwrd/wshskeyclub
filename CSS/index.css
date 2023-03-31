@@ -1,0 +1,62 @@
+.carousel-item img {
+    max-height: 70vh;
+    object-fit: cover;
+}
+
+/* Hero */
+.navbar {
+    background-color: #ffffff90 !important;
+    /* mix-blend-mode: exclusion; */
+}
+
+#hero {
+    position: relative;
+    height: 100vh;
+}
+
+#hero-text {
+    position: relative;
+    top: 40%;
+    text-align: center;
+    color: white;
+}
+
+#hero-text p {
+    font-size: x-large;
+    margin-top: 1rem
+}
+
+#hero-text button {
+    color: white;
+    font-size: large;
+}
+
+#hero-carousel {
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+    opacity: .77;
+    width: 100%;
+}
+
+/* Main */
+.container .keyclub {
+    height: 100%;
+}
+
+.keyclub {
+    display: flex;
+    align-items: center;
+}
+
+.keyclub-text {
+    background-color: #D7EEFF;
+    border-radius: 35px;
+    color: #23487A;
+    padding: 4% 7%;
+    margin-bottom: 5%;
+}
+
+.keyclub-text h2 {
+    margin-bottom: 2%;
+}
