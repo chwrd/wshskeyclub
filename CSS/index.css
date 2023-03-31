@@ -6,19 +6,27 @@
 /* Hero */
 .navbar {
     background-color: #ffffff90 !important;
-    /* mix-blend-mode: exclusion; */
+}
+
+#hero-container{
+    background-color: var(--bg-color);
+    height: 50%;
 }
 
 #hero {
-    position: relative;
-    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
 }
 
 #hero-text {
-    position: relative;
-    top: 40%;
     text-align: center;
-    color: white;
+    /* color: white; */
+}
+
+#hero-text.h1, .p{
+    color: var(--font-color);
 }
 
 #hero-text p {
@@ -27,22 +35,18 @@
 }
 
 #hero-text button {
-    color: white;
+    color: var(--font-color);
     font-size: large;
 }
 
-#hero-carousel {
-    position: absolute;
-    top: 0px;
-    z-index: -1;
+#carousel {
     opacity: .77;
-    width: 100%;
+    width: 100vw;
+    height: 50vh;
+    overflow: hidden;
 }
 
 /* Main */
-.container .keyclub {
-    height: 100%;
-}
 
 .keyclub {
     display: flex;
@@ -54,7 +58,7 @@
     border-radius: 35px;
     color: #23487A;
     padding: 4% 7%;
-    margin-bottom: 5%;
+    margin: 2% auto;
 }
 
 .keyclub-text h2 {
