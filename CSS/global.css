@@ -1,9 +1,13 @@
 :root{
 --bg-color:  #D7EEFF;
 --bg-color-dark:  ;
---font-color: ;
+--font-color: #023047;
 --font-color-dark: #23487A;
 
+--color-0: #0D1B2A;
+--color-1: #1B263B;
+--color-2: #415A77;
+--color-3: #778DA9;
 }
 
 /* .navbar-nav a{
@@ -26,5 +30,11 @@ html, body {
     font-size: 16px;
     font-family: Arial, sans-serif;
 
+}
+
+.content{
+    max-width: 1170px;
+    margin: 10% auto;
+    padding: 10% ;
 }
 
