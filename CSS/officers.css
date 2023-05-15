@@ -1,7 +1,19 @@
+.img-fluid {
+    width: 100%;
+    height: 35vh;
+    object-fit: cover;
+}
 
+main {
+    text-align: center;
+}
 
+.profile {
+    margin: 1.5rem;
+}
 
-/* Main Section */
-.card{
-flex: 1;
+.profile img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
 }
